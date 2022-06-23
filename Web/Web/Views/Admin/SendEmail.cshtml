@@ -1,0 +1,40 @@
+﻿@model SendEmail
+@{
+    ViewBag.Title = "Send Email ";
+}
+<section class="mainAbout my-5">
+    <div class="container">
+        <div class="showcase-form card">
+            <h2>Send Email</h2>
+            <h3>@ViewBag.Message</h3>
+            
+            @using(Html.BeginForm("SendEmail", "Admin", FormMethod.Post, new {enctype = "multipart/form-data" }))
+            {
+                <table>
+                    <tr>
+                        <td>
+                            To:
+                        </td>
+                        <td>@Html.TextBoxFor(model => model.Name)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Subject:
+                        </td>
+                        <td>@Html.TextBoxFor(model => model.Subject)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Body:
+                        </td>
+                        <td>@Html.TextAreaFor(model => model.Message, new { rows = "15", cols="25" } )</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><input type="submit" value="send" /></td>
+                    </tr>
+                </table>
+            }
+        </div>
+
+    </div>
+</section>

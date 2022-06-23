@@ -1,0 +1,59 @@
+﻿@model StudentInfoViewModel
+@using Microsoft.AspNetCore.Http;
+
+
+
+<section class="mainAbout my-5">
+    <div class="container">
+        <div class="showcase-form card">
+            <h2>Register Your Application </h2>
+            <form method="POST" enctype="multipart/form-data" asp-controller="Interview" asp-action="Apply">
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                userid: @Context.Session.GetString("userid");
+                <div class="form-control">
+                    UserEmail<input type="text" asp-for="UserEmail"  />
+                </div>
+
+                <div class="form-control">
+                    UserName<input type="text" asp-for="UserName" />
+                    <span asp-validation-for="UserName"></span>
+                </div>
+                <div class="form-control">
+                    UserPhone<input type="text" asp-for="UserPhone" />
+                    <span asp-validation-for="UserPhone"></span>
+                </div>
+                <div class="form-control">
+                    UserCourse
+                    <select asp-for="UserCourse" placeholder="UserCourse">
+                        <option value="">Please choose Course</option>
+                        <option value="Master of Data Science">Master of Data Science</option>
+                        <option value="Master of AI">Master of AI</option>
+                        <option value="Master of Information technology">Master of Information technology</option>
+                    </select>
+                    <span asp-validation-for="UserCourse"></span>
+                </div>
+                <div class="form-control">
+                    UserGPA
+                    <input type="text" asp-for="UserGPA" />
+                    <span asp-validation-for="UserGPA"></span>
+                </div>
+                <div class="form-control">
+                    UserUni
+                    <input type="text" asp-for="UserUni" />
+                    <span asp-validation-for="UserUni"></span>
+                </div>
+                <div class="form-control">
+                    UserCV
+                    <input type="file" asp-for="UserCVPath" multiple />
+                    <span asp-validation-for="UserCVPath"></span>
+                </div>
+                <div class="form-control">
+                    Published On
+                    <input type="text" asp-for="Regdate"  />
+                </div>
+
+                <input type="submit" value="Send" class="btn btn-primary" />
+            </form>
+        </div>
+    </div>
+</section>

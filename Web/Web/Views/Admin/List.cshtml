@@ -1,0 +1,47 @@
+﻿
+
+
+<section class="mainAbout my-5">
+    <div class="container">
+        <div class="showcase-form card">
+            <h2>View Student Information</h2>
+
+            @using (Html.BeginForm("List", "Admin", FormMethod.Post)) { 
+            <div>
+                 Search by Course Name @Html.TextBox("searchStudent")
+                <input type="submit" value="Filter" class="btn btn-primary" />
+            </div>
+}
+
+            <table class="table">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Course</th>
+                    <th>GPA</th>
+                    <th>University</th>
+                    <th>CV</th>
+                    <th>Email Status</th>
+                    <th>Register Date</th>
+                    <th>View</th>
+                </tr>
+                @foreach (var m in Model)
+                {
+                <tr>
+                    <td>@m.Id</td>
+                    <td>@m.UserName</td>
+                    <td>@m.UserPhone</td>
+                    <td>@m.UserCourse</td>
+                    <td>@m.UserGPA</td>
+                    <td>@m.UserUni</td>
+                    <td><a href="~/upload/@m.UserCV" />View CV</td>
+                    <td>status</td>
+                    <td>@m.Regdate</td>
+                    <td><a asp-controller="Interview" asp-action="AdminDetail" asp-route-Id="@m.Id">Detail</a></td>
+                </tr>
+                }
+            </table>
+        </div>
+    </div>
+</section>

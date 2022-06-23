@@ -1,0 +1,9 @@
+﻿@model StudentTeacherViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@*Student파샬뷰 _TeacherTable를 사용하겠다고 선언*@
+@*(파샬뷰이름, 모델)*@
+@await Html.PartialAsync("_TeacherTable", Model) ;

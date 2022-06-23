@@ -1,0 +1,354 @@
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.exe
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.deps.json
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.runtimeconfig.json
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.runtimeconfig.dev.json
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.Views.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Web.Views.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.AssemblyReference.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfoInputs.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.CoreCompileInputs.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\staticwebassets\Web.StaticWebAssets.xml
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web.styles.css
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.TagHelpers.input.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.TagHelpers.output.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorCoreGenerate.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Display.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List2.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List3.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageRole.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Student.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_TeacherTable.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\About.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Apply.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Edit.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Index.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorTargetAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorTargetAssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.Views.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.CopyComplete
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.dll
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5\Web\Web\obj\Debug\netcoreapp3.1\Web.genruntimeconfig.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.exe
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.deps.json
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.runtimeconfig.json
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.runtimeconfig.dev.json
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.Views.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Web.Views.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.AssemblyReference.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfoInputs.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.CoreCompileInputs.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\staticwebassets\Web.StaticWebAssets.xml
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web.styles.css
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.TagHelpers.input.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.TagHelpers.output.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorCoreGenerate.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Display.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List2.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\List3.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageRole.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SendEmail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Student.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_TeacherTable.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\About.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Apply.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Detail.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Edit.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Interview\Index.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorTargetAssemblyInfo.cache
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.RazorTargetAssemblyInfo.cs
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.Views.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.csproj.CopyComplete
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.dll
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.pdb
+C:\school\Tuesday Class\Assignment\assess2\project5 - Copy\Web\Web\obj\Debug\netcoreapp3.1\Web.genruntimeconfig.cache

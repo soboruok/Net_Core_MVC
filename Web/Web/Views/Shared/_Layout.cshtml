@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="~/css/index.css">
+    <title>CSIRO </title>
+   
+</head>
+<body>
+    <div class="navbar">
+        <div class="container ">
+            <nav class="flex">
+                <h1>CSIRO </h1>
+                <ul>
+
+                    <li><a class="nav-link text-dark" asp-area="" asp-controller="Interview" asp-action="Index">Home</a></li>
+                    <li><a class="nav-link text-dark" asp-area="" asp-controller="Interview" asp-action="About">About</a></li>
+
+                    @*인증이되고, ROLE이 Admin ROLE인경우, *@
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="list3">Admin</a></li>
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="CreateRole">CreateRole</a></li>
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="ManageRole">ManageRole</a></li>
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="SendEmail">SendEmail</a></li>
+                    }
+                    else
+                    {
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Interview" asp-action="Apply">Apply</a></li>
+                    }
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a></li>
+                    }
+                    else
+                    {
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a></li>
+                        <li><a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">Join Member</a></li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <section class="subBanner bg-secondary py-3" style="background-image: url('~/images/main_banner.jpg')">
+        <div class="container flex">
+            <div class="subBannerdes">
+                <h2 class="md b800"> @ViewBag.title</h2>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer bg-dark py-1">
+        <div class="container flex">
+            <div class="footerAddress">
+                <p>Hee Young CHOI</p>
+                <p>2022</p>
+            </div>
+
+        </div>
+    </footer>
+   
+
+</body>
+</html>

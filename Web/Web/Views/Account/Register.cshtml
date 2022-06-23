@@ -1,0 +1,30 @@
+﻿@model RegisterViewModel 
+
+<section class="mainAbout my-5">
+
+    <form method="post" class="form-horizontal">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="showcase-form card">
+            <h2>Register Member</h2>
+            <div class="form-control">
+                <label asp-for="Email">Email <input asp-for="Email" /></label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-control">
+                <label asp-for="FullName">FullName<input asp-for="FullName" /></label>
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            
+            <div class="form-control">
+                <label asp-for="Password">Password<input asp-for="Password" /></label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-control">
+                <label asp-for="ConfirmPassword">Confirm Password<input asp-for="ConfirmPassword" /></label>
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-info">Add</button>
+
+        </div>
+    </form>
+</section>

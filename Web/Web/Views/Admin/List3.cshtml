@@ -1,0 +1,46 @@
+﻿  
+<section class="mainAbout my-5">
+    <div class="container">
+        <div class="showcase-form card">
+
+            <h2>View Student Information</h2>
+            @using (Html.BeginForm("List3", "Admin", FormMethod.Post))
+            {
+                <div>
+                    User Name @Html.TextBox("UserName")
+                    <input type="submit" value="Filter" class="btn btn-primary" />
+                </div>
+            }
+
+            <table class="table">
+                <tr>
+                    <th>ID</th>
+                    <th class="bg-dark">@Html.ActionLink("UserName", "List3", "Admin", new { sortOrder = ViewBag.UserNameSortParm })</th>
+                    <th>Phone</th>
+                    <th class="bg-dark">@Html.ActionLink("UserCourse", "List3", "Admin", new { sortOrder = ViewBag.UserCourseSortParm })</th>
+                    <th class="bg-dark">@Html.ActionLink("UserGPA", "List3", "Admin", new { sortOrder = ViewBag.UserGPASortParm })</th>>
+                    <th>University</th>
+                    <th>CV</th>
+                    <th>Email Status</th>
+                    <th>Register Date</th>
+                    <th>View</th>
+                </tr>
+                @foreach (var m in Model)
+                {
+                    <tr>
+                        <td>@m.Id</td>
+                        <td>@m.UserName</td>
+                        <td>@m.UserPhone</td>
+                        <td>@m.UserCourse</td>
+                        <td>@m.UserGPA</td>
+                        <td>@m.UserUni</td>
+                        <td><a href="~/upload/@m.UserCV" />View CV</td>
+                        <td>status</td>
+                        <td>@m.Regdate</td>
+                        <td><a asp-controller="Admin" asp-action="Detail" asp-route-Id="@m.Id">Detail</a></td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</section>

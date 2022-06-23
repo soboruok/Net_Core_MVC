@@ -1,0 +1,27 @@
+﻿@model ManageRole
+
+<section class="mainAbout">
+    <div class="container card my-4">
+        <h2 class="md my-2">Manage Role</h2>
+        @using (Html.BeginForm())
+        {
+            <table class="table">
+                <tr>
+                    <th>@Html.LabelFor(m => m.UserList)</th>
+                    <th>@Html.DropDownListFor(m => m.UserID, new SelectList(Model.UserList, "Value", "Text"), "Select a User")</th>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(m => m.RoleList)</td>
+                    <td>@Html.DropDownListFor(m => m.RoleList, new SelectList(Model.RoleList, "Value", "Text"), "Select a Role")</td>
+                </tr>
+                <tr>
+                    <td colspan="2"> 
+                    <button type="submit" class="btn btn-primary">Assign Role</button>
+                    </td>
+                </tr>
+
+
+            </table>
+        }
+    </div>
+</section>

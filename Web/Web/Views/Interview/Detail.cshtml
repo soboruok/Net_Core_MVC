@@ -1,0 +1,36 @@
+﻿
+
+@{
+    ViewBag.Title = "View Your Application!";
+}
+
+<section class="mainAbout my-5">
+    <div class="container">
+        <div class="showcase-form card">
+            <h2>View Your Application</h2>
+
+            <table class="table">
+                <tr>
+                    <th>UserName</th>
+                    <th>UserPhone</th>
+                    <th>UserCourse</th>
+                    <th>UserGPA</th>
+                    <th>UserUni</th>
+                    <th>UserCV</th>
+                    <th>Regdate</th>
+                </tr>
+                <tr>
+                    <td>@Model.UserName</td>
+                    <td>@Model.UserPhone</td>
+                    <td>@Model.UserCourse</td>
+                    <td>@Model.UserGPA</td>
+                    <td>@Model.UserUni</td>
+                    <td>@Model.UserCV</td>
+                    <td><a asp-controller="Interview" asp-action="Edit" asp-route-Id="@Model.Id">EDIT</a></td>
+                </tr>
+            </table>
+
+
+        </div>
+    </div>
+</section>
